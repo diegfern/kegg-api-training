@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+*.joblib
+*.tar.gz
+*.json
+*.csv
